@@ -6,4 +6,5 @@ call dobuild_single ClassWrapper 4.0 net40
 
 call dobuild_nuget ClassWrapper
 
+call dobuild_clean
 pause
